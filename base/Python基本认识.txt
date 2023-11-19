@@ -1,0 +1,13 @@
+1. Open Source
+2. Simpler syntax + Faster
+3. A large community of programmers + standard library
+
+Python 3 is not backward compatible with Python 2
+
+Python 开发需要注意的区别:
+1. 代码风格的不同: 必须缩进行数，没有大括号，没有句尾分号
+2. 弱类型的语言: 具有很低的类型约束
+3. 数据结构: 新增的数据结构的使用
+4. 解释型的语言: 不需要先编译代码再运行，执行速度非常快
+5. Python 中没有约束一个脚本中只能是定义一个类名
+6. Python 拥有多继承的特点，区别于Java的单继承，同时没有Java中的接口定义的功能
