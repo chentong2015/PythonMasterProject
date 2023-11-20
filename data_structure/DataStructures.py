@@ -51,7 +51,4 @@ def test_dic(x, y, operator):
         "*": x * y,
         "/": x / y
     }
-    print("Result = ",  result.get(operator, 0))
-
-
-
+    print("Result = ", result.get(operator, 0))

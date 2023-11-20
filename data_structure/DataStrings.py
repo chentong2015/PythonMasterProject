@@ -1,3 +1,4 @@
+
 def test_data_string():
     single_q = 'this is a string'
     double_q = "this is a string"
@@ -8,10 +9,6 @@ def test_data_string():
     strs = full_string.split(' ')
     print(len(strs))
     print(strs[0])
-
-
-def test():
-    print("test")
 
 
 if __name__ == '__main__':
