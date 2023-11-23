@@ -1,15 +1,12 @@
 #!/usr/bin/python
 
-# sys.path.append('C:\\Logiciel\\Pycharm\\Python')
 import urllib
-
 import requests
 import csv
 import random
 import time
 import socket
 import http.client
-# import urllib.request
 from bs4 import BeautifulSoup
 
 

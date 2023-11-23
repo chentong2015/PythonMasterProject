@@ -1,7 +1,6 @@
 1. Open Source
 2. Simpler syntax + Faster
 3. A large community of programmers + standard library
-
 Python 3 is not backward compatible with Python 2
 
 Python 开发需要注意的区别:
